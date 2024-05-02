@@ -9,4 +9,6 @@ The following exercises exist today:
 
 ## Contributing
 
-If you would like to contribute to one of the public repositories, please view our contributing guidelines [here](./.github/CONTRIBUTING.md).
+If you would like to contribute to one of the existing public repositories, please view our contributing guidelines [here](./.github/CONTRIBUTING.md).
+
+To create a net new exercise, please use [this repository template](https://github.com/ps-copilot-sandbox/copilot-exercise-template).
