@@ -25,7 +25,15 @@ See our [CODE_OF_CONDUCT.md](/.github/CODE_OF_CONDUCT.md) file for our code of c
 2. Make sure your code lints.
 3. Issue that pull request!
 
-💬 **Discussions** is a space for our community of GitHub engineers, Partners, and Customers to have conversations, ask questions, post announcements, and share ideas. **We encourage you to participate in these discussions.**
+## Minimum requirements
+
+Each repository in this organization is intended to address one, cohesive exercise or demo around Copilot. To stay true to that approach, we kindly request that:
+- Each respository is limited to one (1) exercise with a specific goal in mind
+- The README of each repository clearly denotes:
+  - The goal of the exercise
+  - The programming languages used in the exercise
+  - Optionally, the IDE intended for the exercise
+  - A guide detailing the step by step instructions needed to complete the exercise (_screenshots encouraged!_)
 
 ## Ready to propose a change?
 
