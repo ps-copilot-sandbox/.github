@@ -5,7 +5,7 @@ The repositories in this organization include various Copilot exercises and demo
 ## Table of Contents
 
 The following exercises exist today:
-- TBD 🚧
+- [JavaScript Calculator](https://github.com/ps-copilot-sandbox/javascript-calculator)
 
 ## Contributing
 
