@@ -9,4 +9,4 @@ The following exercises exist today:
 
 ## Contributing
 
-If you would like to contribute to one of the public repositories, please view our contributing guidelines [here](./github/CONTRIBUTING.md).
+If you would like to contribute to one of the public repositories, please view our contributing guidelines [here](./.github/CONTRIBUTING.md).
