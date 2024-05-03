@@ -6,6 +6,7 @@ The repositories in this organization include various Copilot exercises and demo
 
 The following exercises exist today:
 - [JavaScript Calculator](https://github.com/ps-copilot-sandbox/javascript-calculator)
+- [Flight Delay Hackathon](https://github.com/ps-copilot-sandbox/flight-delay-hackathon)
 
 ## Contributing
 
