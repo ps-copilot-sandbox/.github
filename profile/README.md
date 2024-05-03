@@ -1,4 +1,4 @@
-# Welcome to the GitHub Copilot training organization!
+# Welcome to the GitHub Copilot training organization 🎉
 
 The repositories in this organization include various Copilot exercises and demos.
 
